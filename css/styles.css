@@ -44,11 +44,11 @@ li a:hover:not(.active) {
   background-color: #CD5C5C;
 }
 
-/*.active {
-    background-color: #CD5C5C;
+.active {
+  background-color: #CD5C5C;
 }
 
-.searchbar[type=text] {
+/*.searchbar[type=text] {
     float:right;
     width: 250px;
     box-sizing: border-box;
