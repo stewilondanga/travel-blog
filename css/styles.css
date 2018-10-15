@@ -6,20 +6,6 @@ body {
   background-size: 100%;
 }
 
-.my_social {
-  position: absolute;
-  top: 25px;
-  left: 25px;
-}
-
-.my_social a {
-  display: inline-block;
-  height: 2.5em;
-}
-
-.my_social a img {
-  height: 1.5em;
-}
 
 body{
   background: url(https://res.cloudinary.com/ccrotty2/image/upload/v1468873545/stock-photo-41198398-compressor_gzmv2q.jpg);
