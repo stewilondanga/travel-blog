@@ -142,14 +142,14 @@ h1 {
   margin-right: 400px;
 }
 
-/*footer{
-  	height: 50px;
-    background-color: #333;
-    margin-top:20px;
-    border-radius:5px;
+footer {
+  height: 50px;
+  background-color: #333;
+  margin-top: 20px;
+  border-radius: 5px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
