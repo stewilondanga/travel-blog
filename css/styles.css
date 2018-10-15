@@ -9,16 +9,16 @@ header {
   height: 250px;
 }
 
-/*#logo{
-      margin-top:20px;
-      margin-left:220px;
-      margin-right:0px;
-      width:500px;
-      height:200px;
-      padding:px;
+#logo {
+  margin-top: 20px;
+  margin-left: 220px;
+  margin-right: 0px;
+  width: 500px;
+  height: 200px;
+  padding: px;
 }
 
-.mainnav{
+/*.mainnav{
     list-style-type: none;
     margin: 0;
     padding: 0;
