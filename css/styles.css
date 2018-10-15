@@ -26,12 +26,12 @@ header {
   background-color: #333;
 }
 
-/*li {
-    float: left;
-    border-right:1px solid #bbb;
+li {
+  float: left;
+  border-right: 1px solid #bbb;
 }
 
-li a {
+/*li a {
     display: block;
     color: white;
     font-size:20px;
