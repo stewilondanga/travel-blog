@@ -76,19 +76,19 @@ li a:hover:not(.active) {
   border-radius: 5px;
 }
 
-/*.side2{
+.side2 {
   height: 660px;
-	width: 170px;
-	background-color:#333;
-	float: right;
-	margin-bottom: 30px;
-  margin-top:31px;
-  padding:10px;
-  padding-right:40px;
+  width: 170px;
+  background-color: #333;
+  float: right;
+  margin-bottom: 30px;
+  margin-top: 31px;
+  padding: 10px;
+  padding-right: 40px;
   border-radius: 5px;
 }
 
-.follow{
+/*.follow{
   font-size:25px;
 }
 
