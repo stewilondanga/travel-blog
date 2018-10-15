@@ -124,16 +124,16 @@ h1 {
   font-size: 50px;
 }
 
-/*.short{
-  font-size:17px;
+.short {
+  font-size: 17px;
   line-height: 170%;
-  text-align:center;
-  width:800px;
-  float:left;
-  margin-left:40px;
+  text-align: center;
+  width: 800px;
+  float: left;
+  margin-left: 40px;
 }
 
-.info{
+/*.info{
   background-color:#CD5C5C;
   width:400px;
   tex-algin:center;
