@@ -92,13 +92,13 @@ li a:hover:not(.active) {
   font-size: 25px;
 }
 
-/*div.img {
-    margin: 5px;
-    float: left;
-    width: 100px;
+div.img {
+  margin: 5px;
+  float: left;
+  width: 100px;
 }
 
-div.img img {
+/*div.img img {
     width: 100%;
     height: auto;
 }
