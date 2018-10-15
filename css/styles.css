@@ -88,11 +88,11 @@ li a:hover:not(.active) {
   border-radius: 5px;
 }
 
-/*.follow{
-  font-size:25px;
+.follow {
+  font-size: 25px;
 }
 
-div.img {
+/*div.img {
     margin: 5px;
     float: left;
     width: 100px;
