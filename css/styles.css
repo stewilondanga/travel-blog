@@ -40,11 +40,11 @@ li a {
   text-decoration: none;
 }
 
-/*li a:hover:not(.active) {
-    background-color: #CD5C5C;
+li a:hover:not(.active) {
+  background-color: #CD5C5C;
 }
 
-.active {
+/*.active {
     background-color: #CD5C5C;
 }
 
