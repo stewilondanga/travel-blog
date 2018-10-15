@@ -103,12 +103,12 @@ div.img img {
   height: auto;
 }
 
-/*h3{
-  font-size:20px;
-  margin-left:10px;
+h3 {
+  font-size: 20px;
+  margin-left: 10px;
 }
 
-article{
+/*article{
   background-color:#333;
   height:1200px;
   width:900px;
