@@ -1,10 +1,10 @@
-/*body{
+body {
   background: url(https://res.cloudinary.com/ccrotty2/image/upload/v1468873545/stock-photo-41198398-compressor_gzmv2q.jpg);
-  color:white;
-  font-family:Verdana;
+  color: white;
+  font-family: Verdana;
 }
 
-header{
+/*header{
   background-color:#333;
   height:250px;
 }
