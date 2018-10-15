@@ -136,10 +136,10 @@ h1 {
 .info {
   background-color: #CD5C5C;
   width: 400px;
-  tex-algin: center;
   float: left;
   margin-left: 200px;
   margin-right: 400px;
+  text-align: center;
 }
 
 footer {
@@ -147,6 +147,7 @@ footer {
   background-color: #333;
   margin-top: 20px;
   border-radius: 5px;
+  text-align: center;
 }
 
 .containers {
